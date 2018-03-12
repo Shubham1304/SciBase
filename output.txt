@@ -1,0 +1,46 @@
+Modified output:
+Enter the name of the author you want to search:
+vapnik
+Learning with kernels: support vector machines, regularization, optimization, and beyond
+B Schölkopf
+Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar
+AJ Smola
+Amazon Web Services
+An introduction to support vector machines and other kernel-based learning methods
+N Cristianini
+University of Bristol
+J Shawe-Taylor
+UCL
+LIBSVM: a library for support vector machines
+CJ Lin
+Professor of Computer Science, National Taiwan University
+Unsupervised learning
+T Hastie
+Professor of Statistics, Stanford University
+R Tibshirani
+Professor of Biomedical Data Sciences, and  of  Statistics, Stanford University
+Elements of information theory
+Data Mining: Practical machine learning tools and techniques
+IH Witten
+Professor of Computer Science, University of Waikato, New Zealand
+E Frank
+Associate Professor, Department of Computer Science, University of Waikato
+MA Hall
+Honorary Research Associate, University of Waikato, New Zealand
+CJ Pal
+École Polytechique de Montréal
+Modern applied statistics with S-PLUS
+Introduction to information retrieval
+CD Manning
+Professor of Computer Science and Linguistics, Stanford University
+Convex optimization
+S Boyd
+Professor of Electrical Engineering, Computer Science, and Management Science, Stanford
+L Vandenberghe
+UCLA
+Gaussian processes in machine learning
+CE Rasmussen
+Professor of Machine Learning, University of Cambridge
+An introduction to variable and feature selection
+I Guyon
+ClopiNet / ChaLearn

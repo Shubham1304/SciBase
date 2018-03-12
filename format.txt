@@ -1,0 +1,163 @@
+'''div.gs_r:nth-child(1) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(2)
+        div.gs_r:nth-child(2) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(2)
+        div.gs_r:nth-child(3) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(1)
+        div.gs_r:nth-child(4) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(1)
+        div.gs_r:nth-child(5) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(2)
+        div.gs_r:nth-child(1) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(1)
+        div.gs_r:nth-child(2) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(1)
+        div.gs_r:nth-child(3) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(1)
+        div.gs_r:nth-child(4) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(1)
+        div.gs_r:nth-child(7) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(1)
+        div.gs_r:nth-child(1) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(2)
+        div.gs_r:nth-child(2) > div:nth-child(2) > h3:nth-child(1) > a:nth-child(1)
+        xpath format of paper link
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[1]/div[2]/h3/a
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[2]/div[2]/h3/a
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[1]/div[2]/h3/a
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[2]/div[2]/h3/a
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[3]/div[2]/h3/a
+        xpath format of the author link
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/a[1]
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/a[2]
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/a[1]
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/a[2]
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/a
+        /html/body/div/div[11]/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/a'''
+
+
+Output of one page of vapnik
+Enter the name of the author you want to search:
+vapnik
+This is the main loop
+Hello loop 1 I am searching for papers name
+Hello loop 2 I am searching for papers nameLearning with kernels: support vector machines, regularization, optimization, and beyond
+Hello First loop of papers name
+Hello second loop of papers name
+B Schölkopf
+Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar
+Hello second loop of papers name
+AJ Smola
+Amazon Web Services
+This is the main loop
+Hello loop 1 I am searching for papers name
+Hello loop 2 I am searching for papers nameAn introduction to support vector machines and other kernel-based learning methods
+Hello First loop of papers name
+Hello second loop of papers name
+N Cristianini
+University of Bristol
+Hello second loop of papers name
+J Shawe-Taylor
+UCL
+This is the main loop
+Hello loop 1 I am searching for papers name
+Hello loop 2 I am searching for papers nameLIBSVM: a library for support vector machines
+Hello First loop of papers name
+Hello second loop of papers name
+CJ Lin
+Professor of Computer Science, National Taiwan University
+This is the main loop
+Hello loop 1 I am searching for papers name
+Hello loop 2 I am searching for papers nameUnsupervised learning
+Hello First loop of papers name
+Hello second loop of papers name
+T Hastie
+Professor of Statistics, Stanford University
+Hello second loop of papers name
+R Tibshirani
+Professor of Biomedical Data Sciences, and  of  Statistics, Stanford University
+This is the main loop
+Hello loop 1 I am searching for papers name
+Hello loop 2 I am searching for papers nameElements of information theory
+Hello First loop of papers name
+This is the main loop
+Hello loop 1 I am searching for papers name
+Hello loop 2 I am searching for papers nameData Mining: Practical machine learning tools and techniques
+Hello First loop of papers name
+Hello second loop of papers name
+IH Witten
+Professor of Computer Science, University of Waikato, New Zealand
+Hello second loop of papers name
+E Frank
+Associate Professor, Department of Computer Science, University of Waikato
+Hello second loop of papers name
+MA Hall
+Honorary Research Associate, University of Waikato, New Zealand
+Hello second loop of papers name
+CJ Pal
+École Polytechique de Montréal
+This is the main loop
+Hello loop 1 I am searching for papers name
+Hello loop 2 I am searching for papers nameModern applied statistics with S-PLUS
+Hello First loop of papers name
+This is the main loop
+Hello loop 1 I am searching for papers name
+Hello loop 2 I am searching for papers nameIntroduction to information retrieval
+Hello First loop of papers name
+Hello second loop of papers name
+CD Manning
+Professor of Computer Science and Linguistics, Stanford University
+This is the main loop
+Hello loop 1 I am searching for papers name
+Hello loop 2 I am searching for papers nameConvex optimization
+Hello First loop of papers name
+Hello second loop of papers name
+S Boyd
+Professor of Electrical Engineering, Computer Science, and Management Science, Stanford
+Hello second loop of papers name
+L Vandenberghe
+UCLA
+This is the main loop
+Hello loop 1 I am searching for papers name
+Hello loop 2 I am searching for papers nameGaussian processes in machine learning
+Hello First loop of papers name
+Hello second loop of papers name
+CE Rasmussen
+Professor of Machine Learning, University of Cambridge
+
+
+Modified output:
+Enter the name of the author you want to search:
+vapnik
+Learning with kernels: support vector machines, regularization, optimization, and beyond
+B Schölkopf
+Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar
+AJ Smola
+Amazon Web Services
+An introduction to support vector machines and other kernel-based learning methods
+N Cristianini
+University of Bristol
+J Shawe-Taylor
+UCL
+LIBSVM: a library for support vector machines
+CJ Lin
+Professor of Computer Science, National Taiwan University
+Unsupervised learning
+T Hastie
+Professor of Statistics, Stanford University
+R Tibshirani
+Professor of Biomedical Data Sciences, and  of  Statistics, Stanford University
+Elements of information theory
+Data Mining: Practical machine learning tools and techniques
+IH Witten
+Professor of Computer Science, University of Waikato, New Zealand
+E Frank
+Associate Professor, Department of Computer Science, University of Waikato
+MA Hall
+Honorary Research Associate, University of Waikato, New Zealand
+CJ Pal
+École Polytechique de Montréal
+Modern applied statistics with S-PLUS
+Introduction to information retrieval
+CD Manning
+Professor of Computer Science and Linguistics, Stanford University
+Convex optimization
+S Boyd
+Professor of Electrical Engineering, Computer Science, and Management Science, Stanford
+L Vandenberghe
+UCLA
+Gaussian processes in machine learning
+CE Rasmussen
+Professor of Machine Learning, University of Cambridge
+An introduction to variable and feature selection
+I Guyon
+ClopiNet / ChaLearn
